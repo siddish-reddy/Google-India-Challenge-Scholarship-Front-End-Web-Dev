@@ -1,4 +1,4 @@
-#Introduction to HTML
+# Introduction to HTML
 ## What we had learnt
 * HTML structure
 * Environments, text editors, browsers
