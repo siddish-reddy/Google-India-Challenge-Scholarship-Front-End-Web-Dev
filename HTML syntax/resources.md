@@ -6,3 +6,5 @@
 
 #### Resources useful:
 * [MDN Web Docs for HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+* [W3 Schools](https://www.w3schools.com/tags/)
+* [CodePen](https://www.codepen.io) (Awesome platform for web developers)
